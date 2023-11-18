@@ -52,8 +52,26 @@ I'm [Harsh](), As a final year Computer Science Undergrad and Full Stack Develop
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
-   [![Website Badge](https://img.shields.io/badge/Portfolio.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)][![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-kumar-24318b207/)][![HashNode Badge](https://img.shields.io/badge/-Hashnode-007acc?style=flat&logo=hashnode&logoColor=white&link=https://hashnode.com/@HarshUmpoxy)][![Gmail Badge](https://img.shields.io/badge/-v.emailbadge?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.harshgarg2550@gmail.com)][![Twitter Badge](https://img.shields.io/badge/-HarshUmpoxy-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/HarshUmpoxy)][![Leetcode Badge](https://img.shields.io/badge/-algoacer-2EC866?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/algoacer/)]
-   
+   <!-- [![Website Badge](https://img.shields.io/badge/Portfolio.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)][![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-kumar-24318b207/)][![HashNode Badge](https://img.shields.io/badge/-Hashnode-007acc?style=flat&logo=hashnode&logoColor=white&link=https://hashnode.com/@HarshUmpoxy)][![Gmail Badge](https://img.shields.io/badge/-v.emailbadge?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.harshgarg2550@gmail.com)][![Twitter Badge](https://img.shields.io/badge/-HarshUmpoxy-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/HarshUmpoxy)][![Leetcode Badge](https://img.shields.io/badge/-algoacer-2EC866?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/algoacer/)]
+    -->
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/harsh-kumar-24318b207/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/algoacer/" style="margin-left: 5px;">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://twitter.com/HarshUmpoxy" style="margin-left: 5px;">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="mailto:v.harshgarg2550@gmail.com" style="margin-left: 5px;">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://hashnode.com/@HarshUmpoxy" style="margin-left: 5px;">
+    <img src="https://img.shields.io/badge/Hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
+  </a>
+</div>
+
    <br/>
    
   <p align="center">
