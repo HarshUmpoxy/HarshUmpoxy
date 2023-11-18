@@ -1,6 +1,7 @@
-<h4> Hey there! <img src="" width="30px"></h4>
-
+<h3> Hey there! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="40px"></h3>
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600; font-size: 1.2em;">>
 I'm [Harsh](), As a final year Computer Science Undergrad and Full Stack Developer, I excel in technologies such as React Js, JavaScript, Git, Python, and more. With a track record of solving complex problems, Handling and designing databases in MongoDB, MySQL and excelling in Coding Platforms, I am well-equipped for a Software Development Engineer role.
+<div>
  ---
  
 **My Internship Experiences ...**
