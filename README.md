@@ -13,13 +13,14 @@ I'm [Harsh](), As a final year Computer Science Undergrad and Full Stack Develop
     <strong>Tech Stack: </strong> Python, Flask, MySQL, Git, GitHub, DataPreprocessing, ML 
     <br /> 
     <br /> 
-    <br />
   </div>
   <br/>
   <br/>
 - <div>
     <img width="225" height="150" align='right' src="./assets/microsoft.png" >
-    ... as a <strong>Microsoft Engage Mentee</strong> where I developed a recommendation system performing data preprocessing, filtering along with training the model applying Collaborative Filter.
+    ... as a <strong>Microsoft Engage Mentee</strong> where I developed a recommendation system performing data preprocessing, filtering along with training the model applying Collaborative Filter. 
+    <br/>
+    <strong>Tech Stack: </strong> Problem Solving, Database handling, API integration, DSA
     <br />
     <br />
   </div> 
@@ -28,7 +29,7 @@ I'm [Harsh](), As a final year Computer Science Undergrad and Full Stack Develop
  
 **Languages and Tools:**
 
-<p align="center">
+<p align="center" style="margin-top:10px;">
 
   <div align="center">
   
@@ -59,16 +60,16 @@ I'm [Harsh](), As a final year Computer Science Undergrad and Full Stack Develop
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://leetcode.com/algoacer/" style="margin-left: 5px;">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
   <a href="https://twitter.com/HarshUmpoxy" style="margin-left: 5px;">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="mailto:v.harshgarg2550@gmail.com" style="margin-left: 5px;">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://hashnode.com/@HarshUmpoxy" style="margin-left: 5px;">
-    <img src="https://img.shields.io/badge/Hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
+    <img src="https://img.shields.io/badge/Hashnode-darkblue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
 </div>
 
