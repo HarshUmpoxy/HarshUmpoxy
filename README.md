@@ -29,50 +29,7 @@ I'm [Harsh](), As a final year Computer Science Undergrad and Full Stack Develop
 
   <div align="center">
   
-  <code>
-  <img height="40" src="./assets/api.png">
-</code>
-
-<code>
-  <img height="40 " src="/assets/html.png">
-</code>
-
-<code>
-  <img height="40" src="./assets/python.png">
-</code>
-
-<code>
-  <img height="40" src="./assets/linux.png">
-</code>
-
-<code>
-  <img height="40" src="./assets/mySql.png">
-</code>
-
-<code>
-  <img height="40" src="./assets/tailwindcss.png">
-</code>
-
-<code>
-  <img height="40" src="./assets/js.png">
-</code>
-
-<code>
-  <img height="40" src="./assets/nodeJs.png">
-</code>
-
-<code>
-  <img height="40" src="./assets/react.png">
-</code>
-
-<code>
-  <img height="40" src="./assets/github.png">
-</code>
-
-<code>
-  <img height="40" src="./assets/mongoDb.png">
-</code>
-
+  <code>    <img height="40" src="./assets/api.png">  </code>  <code>    <img height="40 " src="/assets/html.png">  </code>  <code>    <img height="40" src="./assets/python.png">  </code>  <code>    <img height="40" src="./assets/linux.png">  </code>  <code>    <img height="40" src="./assets/mySql.png">  </code>  <code>    <img height="40" src="./assets/tailwindcss.png">  </code>  <code>    <img height="40" src="./assets/js.png">  </code>  <code>    <img height="40" src="./assets/nodeJs.png">  </code>  <code>    <img height="40" src="./assets/react.png">  </code>  <code>    <img height="40" src="./assets/github.png">  </code>  <code>    <img height="40" src="./assets/mongoDb.png">  </code>
   </div>
   </p>
 
