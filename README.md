@@ -6,7 +6,7 @@ I'm [Harsh](), As a final year Computer Science Undergrad and Full Stack Develop
 **My Internship Experiences ...**
 
 - <div>
-    <img width="250" height="95" align='left' src="./assets/hackveda.jpg" >
+    <img width="200" height="200" align='left' src="./assets/hackveda.jpg" >
     ... as a <strong>Python Developer</strong> Hackveda private limited where I worked to automate some tasks using python like Email automation, Web Crawler and pre-processed, plotted and studied different data (including stock market data).
     <br />
     <strong>Tech Stack: </strong> Python, Flask, MySQL, Git, GitHub, DataPreprocessing, ML 
@@ -15,7 +15,7 @@ I'm [Harsh](), As a final year Computer Science Undergrad and Full Stack Develop
   </div>
   
 - <div>
-    <img width="250" height="100" align='right' src="./assets/microsoft.png" >
+    <img width="300" height="200" align='right' src="./assets/microsoft.png" >
     ... as a <strong>Microsoft Engage Mentee</strong> where I developed a recommendation system performing data preprocessing, filtering along with training the model applying Collaborative Filter.
     <br />
     
@@ -29,7 +29,7 @@ I'm [Harsh](), As a final year Computer Science Undergrad and Full Stack Develop
 
   <div align="center">
   
-  <code>    <img height="40" src="./assets/api.png">  </code>  <code>    <img height="40 " src="/assets/html.png">  </code>  <code>    <img height="40" src="./assets/python.png">  </code>  <code>    <img height="40" src="./assets/linux.png">  </code>  <code>    <img height="40" src="./assets/mySql.png">  </code>  <code>    <img height="40" src="./assets/tailwindcss.png">  </code>  <code>    <img height="40" src="./assets/js.png">  </code>  <code>    <img height="40" src="./assets/nodeJs.png">  </code>  <code>    <img height="40" src="./assets/react.png">  </code>  <code>    <img height="40" src="./assets/github.png">  </code>  <code>    <img height="40" src="./assets/mongoDb.png">  </code>
+  <code><img height="40" src="./assets/api.png"></code><code><img height="40 " src="/assets/html.png"></code><code><img height="40" src="./assets/python.png"></code><code><img height="40" src="./assets/linux.png"></code><code><img height="40" src="./assets/mySql.png"></code><code><img height="40" src="./assets/tailwindcss.png"></code><code><img height="40" src="./assets/js.png"></code><code><img height="40" src="./assets/nodeJs.png"></code><code><img height="40" src="./assets/react.png"></code><code><img height="40" src="./assets/github.png"></code><code><img height="40" src="./assets/mongoDb.png"></code>
   </div>
   </p>
 
