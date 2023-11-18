@@ -1,4 +1,5 @@
 <h3> Hey there! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="40px"></h3>
+
 <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600; font-size: 1.2em;">>
 I'm [Harsh](), As a final year Computer Science Undergrad and Full Stack Developer, I excel in technologies such as React Js, JavaScript, Git, Python, and more. With a track record of solving complex problems, Handling and designing databases in MongoDB, MySQL and excelling in Coding Platforms, I am well-equipped for a Software Development Engineer role.
 <div>
@@ -57,7 +58,7 @@ I'm [Harsh](), As a final year Computer Science Undergrad and Full Stack Develop
   
    <!-- [![Website Badge](https://img.shields.io/badge/Portfolio.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)][![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-kumar-24318b207/)][![HashNode Badge](https://img.shields.io/badge/-Hashnode-007acc?style=flat&logo=hashnode&logoColor=white&link=https://hashnode.com/@HarshUmpoxy)][![Gmail Badge](https://img.shields.io/badge/-v.emailbadge?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.harshgarg2550@gmail.com)][![Twitter Badge](https://img.shields.io/badge/-HarshUmpoxy-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/HarshUmpoxy)][![Leetcode Badge](https://img.shields.io/badge/-algoacer-2EC866?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/algoacer/)]
     -->
-  <div id="badges">
+  <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/harsh-kumar-24318b207/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
