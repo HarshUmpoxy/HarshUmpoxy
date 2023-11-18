@@ -6,19 +6,22 @@ I'm [Harsh](), As a final year Computer Science Undergrad and Full Stack Develop
 **My Internship Experiences ...**
 
 - <div>
-    <img width="200" height="200" align='left' src="./assets/hackveda.jpg" >
+    <img width="125" height="125" align='left' src="./assets/hackveda.jpg" >
     ... as a <strong>Python Developer</strong> Hackveda private limited where I worked to automate some tasks using python like Email automation, Web Crawler and pre-processed, plotted and studied different data (including stock market data).
     <br />
+    <br/>
     <strong>Tech Stack: </strong> Python, Flask, MySQL, Git, GitHub, DataPreprocessing, ML 
     <br /> 
     <br /> 
+    <br />
   </div>
-  
+  <br/>
+  <br/>
 - <div>
-    <img width="300" height="200" align='right' src="./assets/microsoft.png" >
+    <img width="225" height="150" align='right' src="./assets/microsoft.png" >
     ... as a <strong>Microsoft Engage Mentee</strong> where I developed a recommendation system performing data preprocessing, filtering along with training the model applying Collaborative Filter.
     <br />
-    
+    <br />
   </div> 
 
  ---
