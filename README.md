@@ -52,24 +52,9 @@ I'm [Harsh](), As a final year Computer Science Undergrad and Full Stack Develop
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
-   [![Website Badge](https://img.shields.io/badge/Portfolio.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)]
-   (
-    <!-- TODO -->
-   ) 
-
-   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-kumar-24318b207/)]
-   (https://www.linkedin.com/in/harsh-kumar-24318b207/) 
-
-   [![HashNode Badge](https://img.shields.io/badge/-Hashnode-007acc?style=flat&logo=hashnode&logoColor=white&link=https://hashnode.com/@HarshUmpoxy)]
-   (https://hashnode.com/@HarshUmpoxy) 
-
-   [![Gmail Badge](https://img.shields.io/badge/-v.emailbadge?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.harshgarg2550@gmail.com)](mailto:v.harshgarg2550@gmail.com)
-    
-   [![Twitter Badge](https://img.shields.io/badge/-HarshUmpoxy-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/HarshUmpoxy)]
-   (https://twitter.com/HarshUmpoxy)
-
-   [![Leetcode Badge](https://img.shields.io/badge/-algoacer-2EC866?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/algoacer/)]
-   (https://leetcode.com/algoacer/)
+   [![Website Badge](https://img.shields.io/badge/Portfolio.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)][![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-kumar-24318b207/)][![HashNode Badge](https://img.shields.io/badge/-Hashnode-007acc?style=flat&logo=hashnode&logoColor=white&link=https://hashnode.com/@HarshUmpoxy)][![Gmail Badge](https://img.shields.io/badge/-v.emailbadge?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.harshgarg2550@gmail.com)][![Twitter Badge](https://img.shields.io/badge/-HarshUmpoxy-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/HarshUmpoxy)][![Leetcode Badge](https://img.shields.io/badge/-algoacer-2EC866?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/algoacer/)]
+   
+   <br/>
    
   <p align="center">
     Show ❤️ by starring and forking repositories you find good!
