@@ -20,6 +20,7 @@ I'm [Harsh](), As a final year Computer Science Undergrad and Full Stack Develop
     <img width="225" height="150" align='right' src="./assets/microsoft.png" >
     ... as a <strong>Microsoft Engage Mentee</strong> where I developed a recommendation system performing data preprocessing, filtering along with training the model applying Collaborative Filter. 
     <br/>
+    <br/>
     <strong>Tech Stack: </strong> Problem Solving, Database handling, API integration, DSA
     <br />
     <br />
