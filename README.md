@@ -1,6 +1,6 @@
 <h4> Hey there! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="40px"></h4>
 <h3>
-I'm [Harsh](), As a final year Computer Science Undergrad and Full Stack Developer, I excel in technologies such as React Js, JavaScript, Git, Python, and more. With a track record of solving complex problems, Handling and designing databases in MongoDB, MySQL and excelling in Coding Platforms, I am well-equipped for a Software Development Engineer role.
+I'm <strong>Harsh</strong>, As a final year Computer Science Undergrad and Full Stack Developer, I excel in technologies such as React Js, JavaScript, Git, GitHub, Flask, NodeJs, ExpressJs, Python, MongoDB, MySQL and more. With a track record of solving complex problems, Handling and designing databases and excelling in Coding Platforms, I am well-equipped for a Software Development Engineer role.
 </h3>
  ---
  
