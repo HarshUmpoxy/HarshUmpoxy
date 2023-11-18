@@ -6,7 +6,7 @@ I'm [Harsh](), As a final year Computer Science Undergrad and Full Stack Develop
 **My Internship Experiences ...**
 
 - <div>
-    <img width="250" height="95" align='left' src="https://images.unsplash.com/photo-1493612276216-ee3925520721?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmFuZG9tfGVufDB8fDB8fHww" >
+    <img width="250" height="95" align='left' src="./assets/hackveda.jpg" >
     ... as a <strong>Python Developer</strong> Hackveda private limited where I worked to automate some tasks using python like Email automation, Web Crawler and pre-processed, plotted and studied different data (including stock market data).
     <br />
     <strong>Tech Stack: </strong> Python, Flask, MySQL, Git, GitHub, DataPreprocessing, ML 
@@ -15,7 +15,7 @@ I'm [Harsh](), As a final year Computer Science Undergrad and Full Stack Develop
   </div>
   
 - <div>
-    <img width="250" height="100" align='right' src="https://images.unsplash.com/photo-1481349518771-20055b2a7b24?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cmFuZG9tfGVufDB8fDB8fHww" >
+    <img width="250" height="100" align='right' src="./assets/microsoft.png" >
     ... as a <strong>Microsoft Engage Mentee</strong> where I developed a recommendation system performing data preprocessing, filtering along with training the model applying Collaborative Filter.
     <br />
     
