@@ -8,9 +8,9 @@ I like to solve complex problems in software developement. Early in career, curr
 **My Internship Experiences ...**
 
 - <div>
-    <img width="90" height="45/75*90" align='left' src="./assets/ps.png" >
-    as a <strong>DevOps Engineer Intern</strong>
-    <br />
+    <!-- <img width="90" height="45/75*90" align='left' src="./assets/ps.png" > -->
+    As a <strong>DevOps Engineer Intern</strong>
+    <!-- <br /> -->
     <br/>
     <strong>Tech Stack: </strong> Docker, Kubernetes, Terraform, CI/CI, helm charts, Express, ReactJs 
     <br /> 
@@ -18,9 +18,9 @@ I like to solve complex problems in software developement. Early in career, curr
   <br/>
   <br/>
 - <div>
-    <img width="90" height="90" align='left' src="./assets/hackveda.jpg" >
-    as a <strong>Python Developer</strong>
-    <br />
+    <!-- <img width="90" height="90" align='left' src="./assets/hackveda.jpg" > -->
+    As a <strong>Python Developer</strong>
+    <!-- <br /> -->
     <br/>
     <strong>Tech Stack: </strong> Python, Flask, MySQL, Git, GitHub, DataPreprocessing, ML 
     <br /> 
@@ -28,9 +28,9 @@ I like to solve complex problems in software developement. Early in career, curr
   <br/>
   <br/>
 - <div>
-    <img width="90" height="60" align='right' src="./assets/microsoft.png" >
-    as a <strong>Microsoft Engage Mentee</strong>
-    <br/>
+    <!-- <img width="90" height="60" align='right' src="./assets/microsoft.png" > -->
+    As a <strong>Microsoft Engage Mentee</strong>
+    <!-- <br/> -->
     <br/>
     <strong>Tech Stack: </strong> Problem Solving, Recommendation Systems, Database handling, API integration, DSA
     <br />
