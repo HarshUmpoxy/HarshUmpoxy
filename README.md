@@ -1,29 +1,38 @@
 <h3> Hey there! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="40px"></h3>
 
-<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600; font-size: 1.2em;">>
-I'm [Harsh](), As a final year Computer Science Undergrad and Full Stack Developer, I excel in technologies such as React Js, JavaScript, Git, Python, and more. With a track record of solving complex problems, Handling and designing databases in MongoDB, MySQL and excelling in Coding Platforms, I am well-equipped for a Software Development Engineer role.
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600; font-size: 1.2em;">
+I like to solve complex problems in software developement. Early in career, currently serving as SDE at Pluralsight.
 <div>
  ---
  
 **My Internship Experiences ...**
 
 - <div>
-    <img width="125" height="125" align='left' src="./assets/hackveda.jpg" >
-    ... as a <strong>Python Developer</strong> Hackveda private limited where I worked to automate some tasks using python like Email automation, Web Crawler and pre-processed, plotted and studied different data (including stock market data).
+    <img width="90" height="45/75*90" align='left' src="./assets/ps.png" >
+    as a <strong>DevOps Engineer Intern</strong>
     <br />
     <br/>
-    <strong>Tech Stack: </strong> Python, Flask, MySQL, Git, GitHub, DataPreprocessing, ML 
-    <br /> 
+    <strong>Tech Stack: </strong> Docker, Kubernetes, Terraform, CI/CI, helm charts, Express, ReactJs 
     <br /> 
   </div>
   <br/>
   <br/>
 - <div>
-    <img width="225" height="150" align='right' src="./assets/microsoft.png" >
-    ... as a <strong>Microsoft Engage Mentee</strong> where I developed a recommendation system performing data preprocessing, filtering along with training the model applying Collaborative Filter. 
+    <img width="90" height="90" align='left' src="./assets/hackveda.jpg" >
+    as a <strong>Python Developer</strong>
+    <br />
+    <br/>
+    <strong>Tech Stack: </strong> Python, Flask, MySQL, Git, GitHub, DataPreprocessing, ML 
+    <br /> 
+  </div>
+  <br/>
+  <br/>
+- <div>
+    <img width="90" height="60" align='right' src="./assets/microsoft.png" >
+    as a <strong>Microsoft Engage Mentee</strong>
     <br/>
     <br/>
-    <strong>Tech Stack: </strong> Problem Solving, Database handling, API integration, DSA
+    <strong>Tech Stack: </strong> Problem Solving, Recommendation Systems, Database handling, API integration, DSA
     <br />
     <br />
   </div> 
